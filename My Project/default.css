@@ -1,0 +1,77 @@
+h1
+{
+    color:white;
+}
+h3{
+    color:black;
+}
+body{
+    background-color:blanchedalmond;
+    background-image:url(computer.jpg);
+    background-size:cover;
+    background-position:center;
+    height:100vh;
+	color:black;
+	font:caption;
+	font-size: 16.5px;
+}
+marquee
+{
+    color:black;
+    font-style:italic;
+    font-size:22.5px;
+}
+.radio{
+    width:369px;
+    padding:0% 0 0;
+    margin:auto;
+
+}
+.login-Page
+{
+    width:369px;
+    padding:0% 0 0;
+    margin:auto;
+
+}
+.form
+{
+    position:relative;
+    z-index:1;
+    max-width:360px;
+    margin: 0 auto 100px;
+    padding:45px;
+    text-align:ceter;
+}
+.form input{
+    outline:1;
+    font-family:"Roboto", sans-serif;
+    background:white;
+    border:100%;
+    margin:0 0 15px;
+    box-sizing:border-box;
+    font-size:14px;
+    width:250px;
+    height:50px;
+    padding:15px;
+}
+.form button{
+    font-family:"Roboto", sans-serif;
+    text-transform:uppercase;
+    outline:0;
+    background:black;
+    width:250px;
+    border:0;
+    padding:15px;
+    color:white;
+    font-size:14px;
+    cursor:pointer;
+}
+.message{
+    color:black;
+}
+img{
+    width:100px;
+    margin:auto;
+    cursor:pointer;
+}
